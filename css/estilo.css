@@ -26,9 +26,9 @@ nav a {
     border: solid 3px black;
     border-radius: 10%;
     float: right;
-    padding: 25px;
+    padding: 0.8%;
     text-decoration: none;
-    margin: 15px;
+    margin: 1%;
 }
 
 nav a:hover{
@@ -45,11 +45,6 @@ nav img{
 
 main{
     padding-top: 10px;
-}
-
-section{
-    margin: 20px;
-    animation: translateY;
 }
 
 h1{
@@ -73,13 +68,13 @@ nav a , p{
 }
 
 .esquerda{
-    margin-right: 50px;
-    margin-left: 10px;
+    margin-right: 5%;
+    margin-left: 1%;
 }
 
 .direita{
-    margin-left: 50px;
-    margin-right: 10px;
+    margin-left: 5%;
+    margin-right: 1%;
 }
 
 section{
@@ -91,6 +86,7 @@ section{
     animation: aparecer 3s linear both;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
+    width: 100%;
   
 }
 
