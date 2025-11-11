@@ -64,9 +64,10 @@ nav a , p{
 }
 
 button{
+    display: block;
+    width: 3%; /* Exemplo de largura */
+    margin: 0 auto;
     text-align: center;
-    margin-left: 42%;
-    margin-bottom: 1%;
     border: solid 2px black;
     border-radius: 10%;
     padding: 1%;
