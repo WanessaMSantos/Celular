@@ -20,6 +20,7 @@ text-align: center;
 padding: 1rem;
 font-weight: bold;
 paddind-top: 10%;
+margin: 0;
 }
 
 nav a {
@@ -45,7 +46,6 @@ nav img{
 }
 
 main{
-    padding-top: 10px;
     margin: 1%;
 }
 
