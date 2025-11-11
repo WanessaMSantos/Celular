@@ -3,11 +3,16 @@
     margin: 0;
     padding: 0;
 }
-
+html, body {
+  height: 100%;
+  margin: 0;
+}
 body{
     margin: 0 auto;
     width: 100%;
     background-color: rgb(223, 250, 247);
+    display: flex;
+    flex-direction: column;
 }
 
 nav{
@@ -52,6 +57,7 @@ nav img{
 }
 main{
     padding-top: 1%;
+    flex: 1;
 }
 margin{
     margin: 1%;
