@@ -95,9 +95,9 @@ button:hover{
 .vermelho{
     color: red;
     border: solid 3px black;
-    margin-left: 10%;
-    margin-right: 10%;
-    font-size: 5rem;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 3rem;
 }
 
 .gif{
